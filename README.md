@@ -74,3 +74,6 @@ src/
 ## Autor
 
 **Thaísa Raquel**
+
+
+** https://taina-doces-brigaderia-gourmet.netlify.app/ (Em finalização)
